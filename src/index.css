@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+@layer components{
+  .border-x-1{
+    border-style: solid;
+    border-left-width: 1px;
+    border-right-width: 1px;
+  }
+  .border-light{
+    border-color: #f2f2f2;
+  }
+  .ff-mulish{
+    font-family: 'Mulish', sans-serif;
+  }
+  .ff-body{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .text-xxs{
+    font-size: .625rem;
+  }
+  .border-1{
+    border-style: solid;
+    border-width: 1px;
+  }
+}
