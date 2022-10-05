@@ -59,5 +59,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/Abhyodays)
-- Twitter [@your-twitter](https://twitter.com/AbhyodaySingh)
+- GitHub [@Abhyodays](https://github.com/Abhyodays)
+- Twitter [@AbhyodaySingh](https://twitter.com/AbhyodaySingh)
